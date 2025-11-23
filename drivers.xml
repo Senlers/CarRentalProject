@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vip>
+    <username>testnum2</username>
+    <rentEnd>0</rentEnd>
+    <car />
+    <driversList>
+      <name>aasd</name>
+      <familyname>dd</familyname>
+      <id>111111111</id>
+      <Name>aasd</Name>
+      <FamilyName>dd</FamilyName>
+      <ID>111111111</ID>
+    </driversList>
+  </Vip>
+  <Vip>
+    <username>viptest</username>
+    <rentEnd>644</rentEnd>
+    <car />
+    <driversList>
+      <name>asd</name>
+      <familyname>sd</familyname>
+      <id>122222223</id>
+      <Name>asd</Name>
+      <FamilyName>sd</FamilyName>
+      <ID>122222223</ID>
+    </driversList>
+  </Vip>
+  <Vip>
+    <username>Senlers</username>
+    <rentEnd>202</rentEnd>
+    <car />
+    <driversList>
+      <name>asdf</name>
+      <familyname>asdfff</familyname>
+      <id>123412333</id>
+      <Name>asdf</Name>
+      <FamilyName>asdfff</FamilyName>
+      <ID>123412333</ID>
+    </driversList>
+  </Vip>
+  <Vip>
+    <username>ransa</username>
+    <rentEnd>15</rentEnd>
+    <car />
+    <driversList>
+      <name>Daniel</name>
+      <familyname>Fori</familyname>
+      <id>123435451</id>
+      <Name>Daniel</Name>
+      <FamilyName>Fori</FamilyName>
+      <ID>123435451</ID>
+    </driversList>
+  </Vip>
+  <Vip>
+    <username>checker5</username>
+    <rentEnd>14</rentEnd>
+    <car />
+  </Vip>
+  <Vip>
+    <username>Pazpaz</username>
+    <rentEnd>14</rentEnd>
+    <car />
+  </Vip>
+</ArrayOfVip>
